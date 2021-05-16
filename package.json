@@ -1,0 +1,31 @@
+{
+  "name": "survey-practice",
+  "version": "1.0.0",
+  "description": "Test practice for a survey page with Cucumber and WebdriverIO",
+  "main": "babel.config.js",
+  "dependencies": {
+    "chromedriver": "^90.0.0",
+    "prettier": "^2.3.0",
+    "wdio-chromedriver-service": "^7.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marelynaguilera/survey-practice.git"
+  },
+  "keywords": [
+    "test",
+    "webdriverIO",
+    "cucumber",
+    "BDD"
+  ],
+  "author": "marelynaguilera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marelynaguilera/survey-practice/issues"
+  },
+  "homepage": "https://github.com/marelynaguilera/survey-practice#readme"
+}
